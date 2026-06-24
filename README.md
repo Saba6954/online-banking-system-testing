@@ -47,6 +47,15 @@ Bug Report,
 Requirement Traceability Matrix (RTM),
 Test Summary Report.
 
+## Screenshots
+
+### Test Cases
+
+
+### Bug Report
+
+
+### RTM
 Project Outcome
 
 This project demonstrates the complete manual testing process, including planning, test case design, defect reporting, requirement traceability, and test closure. It showcases practical knowledge of software testing concepts and documentation expected from an entry-level Manual QA Tester.
